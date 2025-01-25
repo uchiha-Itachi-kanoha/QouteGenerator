@@ -38,6 +38,7 @@ class File extends Component {
         const { quoteData, errormsg } = this.state;
 
         return (
+            <div className="quote-container">
             <div className="quote-box">
                 <h1>Quotes</h1>
                 {quoteData ? (
@@ -48,6 +49,7 @@ class File extends Component {
                 ) : null}
                 {errormsg && <div>{errormsg}</div>}
                 <button onClick={this.nextQuote}>Next Quote</button>
+            </div>
             </div>
         );
     }
