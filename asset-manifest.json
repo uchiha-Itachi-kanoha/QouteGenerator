@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/QouteGenerator/static/css/main.1c40610b.chunk.css",
+    "main.js": "/QouteGenerator/static/js/main.7f449079.chunk.js",
+    "main.js.map": "/QouteGenerator/static/js/main.7f449079.chunk.js.map",
+    "runtime~main.js": "/QouteGenerator/static/js/runtime~main.9615b85a.js",
+    "runtime~main.js.map": "/QouteGenerator/static/js/runtime~main.9615b85a.js.map",
+    "static/js/2.c11b465e.chunk.js": "/QouteGenerator/static/js/2.c11b465e.chunk.js",
+    "static/js/2.c11b465e.chunk.js.map": "/QouteGenerator/static/js/2.c11b465e.chunk.js.map",
+    "static/js/3.44b60ca4.chunk.js": "/QouteGenerator/static/js/3.44b60ca4.chunk.js",
+    "static/js/3.44b60ca4.chunk.js.map": "/QouteGenerator/static/js/3.44b60ca4.chunk.js.map",
+    "index.html": "/QouteGenerator/index.html",
+    "precache-manifest.e960d2895f0d715a5b4271e3b883518d.js": "/QouteGenerator/precache-manifest.e960d2895f0d715a5b4271e3b883518d.js",
+    "service-worker.js": "/QouteGenerator/service-worker.js",
+    "static/css/main.1c40610b.chunk.css.map": "/QouteGenerator/static/css/main.1c40610b.chunk.css.map"
+  }
+}
