@@ -48,7 +48,7 @@ class File extends Component {
                     </div>
                 ) : null}
                 {errormsg && <div>{errormsg}</div>}
-                <button onClick={this.nextQuote}>Next Quote</button>
+                <button className="next-quote-button" onClick={this.nextQuote}>Next Quote</button>
             </div>
             </div>
         );
